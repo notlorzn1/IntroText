@@ -174,7 +174,7 @@ https://github.com/username/repo_name
 1. `comp1238.md` file exists and contains the headings `## Week 1` … `## Week 5` with at least 2 lines of text under each heading
     
 1. The website `username.github.io/repo_name` is active 
-
+https://github.com/notlorzn1/gbc/tree/main
 
 
 
